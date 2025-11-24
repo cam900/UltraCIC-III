@@ -1,5 +1,5 @@
 # UltraCIC-III
-This code allows you to create a replacement CIC chip for N64 games that you own on an ATTiny25, ATTiny45 of ATTiny85. 
+This code allows you to create a replacement CIC chip for N64 games that you own on an ATTiny25, ATTiny45 or ATTiny85. 
 The original code was written by jesgdev and updated with multi-region support by saturnu. 
 I simply extended the version Krikzz created under the name UltraCIC-II to support automatic switching between NTSC and PAL if the console was unable to boot.
 
